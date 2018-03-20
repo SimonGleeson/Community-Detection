@@ -1,0 +1,8 @@
+numpy
+scipy
+Cython
+wget
+pandas
+munkres
+pygco
+pyqpbo
